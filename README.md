@@ -12,8 +12,6 @@
 
 ### Categorias
 
-git config --global user.email "nicolasreissanto@gmail.com"
-git config --global user.name "Nreis280"
 `GET` /categoria
 
 Lista todas as catecorias do sistema.
